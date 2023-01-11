@@ -10,3 +10,4 @@ github_username: allanzhao
 
 # Build settings
 markdown: kramdown
+theme: tactile
