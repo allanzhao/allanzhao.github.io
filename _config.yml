@@ -32,6 +32,7 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-tactile
+remote-theme: pages-themes/tactile
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
